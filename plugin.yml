@@ -1,0 +1,6 @@
+main: me.mathiaseklund.stylenames.Main
+name: StyleNames
+version: 0.1
+author: mathiaseklund
+commands:
+  style:
